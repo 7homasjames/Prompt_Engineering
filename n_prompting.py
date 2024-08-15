@@ -23,6 +23,15 @@ zero_shot_sample = get_completion(zero_shot_prompting())
 structured_sample = get_completion(structured_prompting())
 detailed_sample = get_completion(detailed_prompting())
 
+# Testing
+
+policy_summarizations = get_completion(policy_summarization(few_shot_sample))
+print(policy_summarizations)
+claim_processings = get_completion(claim_processing(zero_shot_sample))
+policy_checkings= get_completion(policy_checking(structured_sample))
+print(claim_processings)
+print(policy_checkings)
+
 
 
 
@@ -47,12 +56,5 @@ def create_samples_files(few_shot_sample, zero_shot_sample, structured_sample, d
 create_samples_files(few_shot_sample, zero_shot_sample, structured_sample,detailed_sample)
 
 
-########## Testing
 
-policy_summarizations = get_completion(policy_summarization(few_shot_sample))
-print(policy_summarizations)
-claim_processings = get_completion(claim_processing(zero_shot_sample))
-policy_checkings= get_completion(policy_checking(structured_sample))
-print(claim_processings)
-print(policy_checkings)
 
