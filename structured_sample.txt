@@ -1,0 +1,15 @@
+
+Structured Sample
+-----------------
+The policyholder, a 45-year-old male residing in New York, NY, holds an auto insurance policy with a coverage limit of $100,000 and a deductible of $500. His policy number is 123456789, and he pays an annual premium of $1,200, with a clean payment history and no previous claims.
+
+On August 1, 2024, the policyholder was involved in a collision in Manhattan, NY, specifically a rear-end collision at a traffic light. The estimated loss amount is $10,000, with the actual loss amount being $9,500. The claim is currently open, with the claim settlement date pending.
+
+The vehicle involved in the collision is a 2020 Honda Accord with a value of $20,000. The VIN is 1HGCM82633A004352, and the damage sustained includes rear bumper and trunk damage.
+
+There are no identified fraud indicators or suspicious patterns in this claim. The data quality is verified and consistent, compliant with GDPR regulations, with a balanced distribution of claim types and no synthetic data used.
+
+Due to the collision being the policyholder's fault, the deductible of $500 will apply to the claim. The insurance company will cover the remaining $9,000 of the actual loss amount. Once the claim settlement date is reached, the policyholder will receive a reimbursement for the covered amount.
+
+Overall, the incident type of a collision impacts the claim process by determining fault and liability, which in turn affects the settlement outcome and the amount the policyholder will receive for repairs to the vehicle.
+

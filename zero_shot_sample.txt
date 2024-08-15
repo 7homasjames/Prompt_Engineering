@@ -1,0 +1,29 @@
+
+Zero-Shot Sample
+----------------
+Incident Type: Car Accident
+
+Policyholder Details:
+- Name: Sarah Johnson
+- Policy Number: 123456789
+- Insurance Company: SafeDrive Insurance
+
+Claim Specifics:
+Sarah Johnson was involved in a car accident on the evening of June 15th, 2021. She was driving through an intersection when another vehicle ran a red light and collided with her car. The impact caused significant damage to both vehicles, and Sarah sustained minor injuries, including whiplash and bruising.
+
+Sarah immediately contacted her insurance company, SafeDrive Insurance, to file a claim. She provided all necessary details, including the location of the accident, the other driver's information, and a police report documenting the incident. SafeDrive Insurance assigned an adjuster to her case to investigate the claim further.
+
+Financial Information:
+- Cost of Repairs: $5,000 for Sarah's car
+- Medical Expenses: $2,000 for Sarah's injuries
+- Rental Car: $500 for temporary transportation while Sarah's car is being repaired
+
+The adjuster reviewed the evidence provided by Sarah and conducted interviews with witnesses to determine fault in the accident. After a thorough investigation, the adjuster concluded that the other driver was at fault for running the red light. As a result, SafeDrive Insurance accepted liability for the claim and agreed to cover all damages and expenses incurred by Sarah.
+
+The adjuster worked with Sarah to coordinate repairs for her car at an approved auto body shop and arranged for her to receive medical treatment for her injuries. SafeDrive Insurance also reimbursed Sarah for the cost of a rental car while her vehicle was being repaired.
+
+Overall Evaluation and Settlement:
+The detailed information provided by Sarah, including the police report and witness statements, played a crucial role in determining fault and expediting the claim process. SafeDrive Insurance's prompt investigation and communication with Sarah helped facilitate a quick and fair settlement for her car accident claim.
+
+In conclusion, Sarah's comprehensive documentation of the incident, coupled with SafeDrive Insurance's efficient handling of the claim, resulted in a successful outcome for all parties involved. The thorough evaluation and settlement of the claim demonstrate the importance of clear communication and cooperation between the policyholder and the insurance company in resolving car accident claims.
+
